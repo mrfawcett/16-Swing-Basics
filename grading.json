@@ -1,0 +1,6 @@
+[
+ {"test": "ShapesPanelTest",   "name": "ShapesPanel: three shapes on a white panel",     "points": 20},
+ {"test": "HousePanelTest",    "name": "HousePanel: the house in painter's order",      "points": 35},
+ {"test": "BarChartPanelTest", "name": "BarChartPanel: one bar per value plus baseline", "points": 25},
+ {"test": "FacePanelTest",     "name": "FacePanel: ovals in boxes and an arc",          "points": 20}
+]
